@@ -1,0 +1,55 @@
+div {
+    padding: 10px;
+    margin: 10px;
+    border: 2px;
+    text-align: center;
+    color: tan;
+    outline: 20px tan;
+}
+
+body {
+    width: 2000px;
+    background: lightgray;
+    font-family: sans-serif;
+    text-align: left;
+    border: 10px solid white;
+}
+
+.title {
+    background-color: white;
+    font-weight: bold;
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+    border: 10px solid burlywood;
+}
+
+.img {
+    align-items: center;
+    image-resolution: 1500px 2250px;
+    border: 10px solid burlywood;
+}
+
+.description {
+    background-color: white;
+    font-weight: bold;
+    color: black;
+    text-align: left;
+    border: 10px solid burlywood;
+}
+
+.ingredients {
+    background-color: white;
+    font-family: sans-serif;
+    color: black;
+    text-align: left;
+    border: 10px solid burlywood;
+}
+
+.steps {
+    background-color: white;
+    font-family: sans-serif;
+    color: black;
+    text-align: left;
+    border: 10px solid burlywood;
+}
